@@ -1,4 +1,4 @@
-[# zomo.gg - Your Ultimate League of Legends Companion
+# zomo.gg - Your Ultimate League of Legends Companion
 
 [![Project Status](https://img.shields.io/badge/Status-Developing-yellow)](https://github.com/your-username/zomo.gg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
